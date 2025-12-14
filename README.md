@@ -1,29 +1,39 @@
+# Merhaba 👋, Ben Gencer Şen
 
-
-<img src="images/me.jpg" align="right" />
-
-My name is Gencer Şen. Im tryingt to code as much as i can and trying to be help the other people.
-
+- 🎓 **Bilişim Sistemleri ve Teknolojileri** 4. sınıf öğrencisiyim.
+- 💡 Elimden geldiğince kod yazmaya ve diğer insanlara yardım etmeye çalışıyorum.
+- 🌱 Şu anda **Python**, **Java** ve **C++** üzerinde çalışıyorum.
+- 📚 Ayrıca **C#** öğreniyorum.
+- 📫 Bana ulaşmak için: Lütfen sosyal medya bağlantılarımı kullanın.
 
 ---
 
-**Social Media:**
+## 🛠️ Teknolojilerim
 
-[![GitHub](icons/github.png)](https://github.com/GNCRSN)
-[![Twitter](icons/twitter.png)](https://twitter.com/Gencer_Sen)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/gencersen/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/gencer.sn/)
+### Diller
+[![Diller](https://skillicons.dev/icons?i=python,java,cpp)](https://skillicons.dev)
 
-**Currently working with:**
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
+### Veritabanları ve Araçlar
+[![Veritabanları ve Araçlar](https://skillicons.dev/icons?i=mysql,vscode,git,github)](https://skillicons.dev)
 
-**Learning:**
-<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
+---
 
+## 🌐 Benimle Bağlantı Kur
 
-**Previously worked with:**
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/GNCRSN)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Gencer_Sen)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gencersen/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/gencer.sn/)
 
-**Currently focused on building:**
+---
+
+## 📊 İstatistikler
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GNCRSN&count_private=true&theme=onedark&show_icons=true" alt="Gencer Şen GitHub İstatistikleri" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GNCRSN&hide_border=true&theme=onedark&show_icons=true" alt="Gencer Şen GitHub Streak" />
+</p>
+
+<p align="center">
+	<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=GNCRSN&theme=dark&layout=compact&theme=onedark&show_icons=true" alt="Gencer Şen WakaTime İstatistikleri" />
+</p>
