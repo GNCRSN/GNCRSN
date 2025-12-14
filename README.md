@@ -14,7 +14,13 @@
 [![Diller](https://skillicons.dev/icons?i=python,java,cpp)](https://skillicons.dev)
 
 ### Veritabanları ve Araçlar
-[![Veritabanları ve Araçlar](https://skillicons.dev/icons?i=mysql,vscode,git,github)](https://skillicons.dev)
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+
+<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
+
+<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
+
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 
 ---
 
