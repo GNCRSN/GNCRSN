@@ -13,7 +13,10 @@
 ### Diller
 [![Diller](https://skillicons.dev/icons?i=python,java,cpp)](https://skillicons.dev)
 
-### Veritabanları ve Araçlar
+### 💻 Genellikle Çalıştığım Araçlar, İşletim Sistemleri ve Platformlar
+
+### 💻 Genellikle Çalıştığım Araçlar, İşletim Sistemleri ve Platformlar
+
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45" />
@@ -38,8 +41,11 @@
   <a href="https://github.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" />
   </a>
+  &nbsp; &nbsp;
+  <a href="https://www.microsoft.com/windows" target="_blank">
+    <img src="https://skillicons.dev/icons?i=windows" alt="Windows OS" height="45" />
+  </a>
 </p>
-
 ---
 
 ## 🌐 Benimle Bağlantı Kur
