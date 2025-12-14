@@ -14,8 +14,6 @@
 [![Diller](https://skillicons.dev/icons?i=python,java,cpp)](https://skillicons.dev)
 
 ### Veritabanları ve Araçlar
-### 🛠️ Teknolojilerim
-
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45" />
