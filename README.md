@@ -73,7 +73,3 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GNCRSN&count_private=true&theme=onedark&show_icons=true" alt="Gencer Şen GitHub İstatistikleri" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GNCRSN&hide_border=true&theme=onedark&show_icons=true" alt="Gencer Şen GitHub Streak" />
 </p>
-
-<p align="center">
-	<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=GNCRSN&theme=dark&layout=compact&theme=onedark&show_icons=true" alt="Gencer Şen WakaTime İstatistikleri" />
-</p>
