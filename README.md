@@ -11,7 +11,19 @@
 ## 🛠️ Teknolojilerim
 
 ### Diller
-[![Diller](https://skillicons.dev/icons?i=python,java,cpp)](https://skillicons.dev)
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" height="45" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="45" />
+  </a>
+</p>
 
 ### 💻 Genellikle Çalıştığım Araçlar, İşletim Sistemleri ve Platformlar
 
