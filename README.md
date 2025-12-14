@@ -1,4 +1,4 @@
-# Merhaba 👋, Ben Gencer Şen
+# Merhaba 👋, Ben Gencer
 
 - 🎓 **Bilişim Sistemleri ve Teknolojileri** 4. sınıf öğrencisiyim.
 - 💡 Elimden geldiğince kod yazmaya ve diğer insanlara yardım etmeye çalışıyorum.
