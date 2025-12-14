@@ -14,13 +14,33 @@
 [![Diller](https://skillicons.dev/icons?i=python,java,cpp)](https://skillicons.dev)
 
 ### Veritabanları ve Araçlar
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+### 🛠️ Teknolojilerim
 
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" height="45" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="45" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" />
+  </a>
+</p>
 
 ---
 
