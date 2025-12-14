@@ -15,8 +15,6 @@
 
 ### 💻 Genellikle Çalıştığım Araçlar, İşletim Sistemleri ve Platformlar
 
-### 💻 Genellikle Çalıştığım Araçlar, İşletim Sistemleri ve Platformlar
-
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45" />
@@ -46,7 +44,7 @@
     <img src="https://skillicons.dev/icons?i=windows" alt="Windows OS" height="45" />
   </a>
 </p>
----
+
 
 ## 🌐 Benimle Bağlantı Kur
 
@@ -55,7 +53,7 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gencersen/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/gencer.sn/)
 
----
+
 
 ## 📊 İstatistikler
 
