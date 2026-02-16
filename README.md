@@ -1,9 +1,7 @@
 # Merhaba 👋, Ben Gencer
 
 - 🎓 **Bilişim Sistemleri ve Teknolojileri** 4. sınıf öğrencisiyim.
-- 💡 Elimden geldiğince kod yazmaya ve diğer insanlara yardım etmeye çalışıyorum.
-- 🌱 Şu anda **Python**, **Java** ve **C++** üzerinde çalışıyorum.
-- 📚 Ayrıca **C#** öğreniyorum.
+- 🌱 Şu anda **Python**, **Java** üzerinde çalışıyorum.
 - 📫 Bana ulaşmak için: Lütfen sosyal medya bağlantılarımı kullanın.
 
 ---
@@ -19,10 +17,6 @@
   <a href="https://www.java.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" height="45" />
   </a>
-  &nbsp; &nbsp;
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="45" />
-  </a>
 </p>
 
 ### 💻 Genellikle Çalıştığım Araçlar, İşletim Sistemleri ve Platformlar
@@ -34,10 +28,6 @@
   &nbsp; &nbsp;
   <a href="https://www.java.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" height="45" />
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="45" />
   </a>
   &nbsp; &nbsp;
   <a href="https://www.mysql.com/" target="_blank">
